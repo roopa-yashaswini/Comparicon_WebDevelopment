@@ -10,6 +10,7 @@ Users can:
   5. Change their avatar
   6. Update their password
  \
+ \
 Admins can:
   1. Add users or other admins
   2. Remove users
