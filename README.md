@@ -10,7 +10,7 @@ Users can:
   4. Report any problems, issues or suggestions
   5. Change their avatar
   6. Update their password
-<br>
+
 Admins can:
   1. Add users or other admins
   2. Remove users
