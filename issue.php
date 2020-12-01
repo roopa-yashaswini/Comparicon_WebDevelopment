@@ -85,6 +85,12 @@
 			<input type="submit" name="submit" id="submit" value="Submit" />
 		</form>
 	</div>
+	<div id="footer">
+		<p>For any additional queries: <br>
+			Mail us at: xyz@gmail.com<br>
+			Contact us: 9999999999
+		</p>
+	</div>
 </body>
 </html>
 <?php
