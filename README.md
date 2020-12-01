@@ -1,7 +1,9 @@
 # Comparicon_WebDevelopment
 ### Website based on crawling and scraping few E-commerce websites
 
-Comparicon website focuses on displaying prices of the desired products from Amazon, Flipkart and Snapdeal. It provides user and admin privileges.\\
+Comparicon website focuses on displaying prices of the desired products from Amazon, Flipkart and Snapdeal. It provides user and admin privileges.\
+\
+\
 Users can: 
   1. Search products collectively
   2. Search products from a single website
