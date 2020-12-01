@@ -16,4 +16,4 @@ Admins can:
   c. Send messages among the registered people of this website
   d. Read the issues, suggestions faced by people
   e. Change Avatar
-  f. Update their password
+  f. Update their passwords
