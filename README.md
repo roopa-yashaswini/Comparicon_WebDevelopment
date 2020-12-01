@@ -3,14 +3,15 @@
 
 Comparicon website focuses on displaying prices of the desired products from Amazon, Flipkart and Snapdeal. It provides user and admin privileges.\
 <br>
-1. Users can: 
+Users can:
   1. Search products collectively
   2. Search products from a single website
   3. Chat and share links among the users of this website
   4. Report any problems, issues or suggestions
   5. Change their avatar
   6. Update their password
-2. Admins can:
+<br>
+Admins can:
   1. Add users or other admins
   2. Remove users
   3. Send messages among the registered people of this website
