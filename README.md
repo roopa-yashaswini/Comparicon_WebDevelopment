@@ -1,19 +1,19 @@
 # Comparicon_WebDevelopment
-Website based on crawling and scraping few E-commerce websites
+### Website based on crawling and scraping few E-commerce websites
 
-Comparicon website focuses on displaying prices of the desired products from Amazon, Flipkart and Snapdeal. It provides user and admin privileges.
-Users can:
-  a. Search products collectively
-  b. Search products from a single website
-  c. Chat and share links among the users of this website
-  d. Report any problems, issues or suggestions
-  e. Change their avatar
-  f. Update their password
-
+Comparicon website focuses on displaying prices of the desired products from Amazon, Flipkart and Snapdeal. It provides user and admin privileges.\
+Users can: 
+  1. Search products collectively
+  2. Search products from a single website
+  3. Chat and share links among the users of this website
+  4. Report any problems, issues or suggestions
+  5. Change their avatar
+  6. Update their password
+ \
 Admins can:
-  a. Add users or other admins
-  b. Remove users
-  c. Send messages among the registered people of this website
-  d. Read the issues, suggestions faced by people
-  e. Change Avatar
-  f. Update their password
+  1. Add users or other admins
+  2. Remove users
+  3. Send messages among the registered people of this website
+  4. Read the issues, suggestions faced by people
+  5. Change Avatar
+  6. Update their password
